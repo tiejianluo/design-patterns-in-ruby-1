@@ -1,4 +1,5 @@
 # 设计模式的讲解
+1994年 4位 软件专家（后人称他们为被“四人帮” The "Gang of Four"）Erich Gamma,Richard Helm,Ralph Johnson,John Vlissides 写了一本书，《设计模式：可重用面向对象软件的要素
 [Design Patterns: Elements of Reusable Object-Oriented Software](http://en.wikipedia.org/wiki/Design_Patterns)
 
 Summary of the design patterns explained in the book [Design Patterns in Ruby](http://designpatternsinruby.com/), where [Russ Olsen](http://russolsen.com/) explains and adapts to Ruby 14 of the original 23 GoF design patterns.
